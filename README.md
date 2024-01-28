@@ -1,2 +1,5 @@
-# ukedu
-Why do UK pupils in small towns had better educational attainment than in larger towns and cities?
+# Why do UK pupils in small towns had better educational attainment than in larger towns and cities?
+
+Based on the Data Set collected by The UK Office for National Statistics, pupils in small towns had better educational attainment than in larger towns and cities. Interested in exploring the pain points in long-term educational attainment in the UK, I completed 3 interactive visual analyses. Within the context of this dataset, educational attainment points to the proportion of the town population that successfully completes a certain educational level. From these graphs, I found that the educational attainment is suggested to be much lower in income-deprived towns. Furthermore, this trend performs worse and worse the higher the educational level. More interestingly, UK towns that tend to be of higher deprivation in terms of income tend to be bigger-sized. These findings suggest geoeconomic factors such as the relationship between town size and town economic performance are imperative to the town overall educational attainment level.
+
+Source: The dataset this week comes from The UK Office for National Statistics. It was explored in the July 2023 article 'Why do children and young people in smaller towns do better academically than those in larger towns?'
